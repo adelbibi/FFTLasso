@@ -11,7 +11,7 @@ License: See LICENSE file
 **If you use any of this work please cite:**  
 Adel Bibi, Hani Itani, Bernard Ghanem  
 "FFTLasso: Large-Scale LASSO in the Fourier Domain"  
-Conference on Computer Vision and Pattern Recognition (CVPR 2017) [Oral]
+Conference on Computer Vision and Pattern Recognition (CVPR 2017)
 
 The code is tested on windows. The required depdencies are:
 
