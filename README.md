@@ -26,4 +26,4 @@ d) numpy 1.12.1
 
 The subdirectory "FFTLasso_TensorFlow_VerticalSplits" demonstrates how FFTLasso can be implemented with arbitrary number of vertical splits of the dictionary A to be distrubted over multiple GPUs.
 
-Note: Tensorflow in general is much slower than having a CUDA version of this. This is a simple demo of how the proposed approach can trivially parallize data over multiple GPUs since the operations involved are elementwise and FFTs.
+Note: Tensorflow in general is much slower than having a CUDA version. This is a simple demo of how the proposed approach can trivially parallelize data over multiple GPUs since the operations involved are elementwise and FFTs. 
